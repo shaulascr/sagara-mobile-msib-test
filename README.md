@@ -1,1 +1,36 @@
 # sagara-mobile-msib-test
+
+Tujuan:
+Mengembangkan aplikasi mobile dasar menggunakan React Native atau Flutter untuk menunjukkan keterampilan dasar Anda dalam pengembangan aplikasi mobile, terutama dalam integrasi API dan desain antarmuka pengguna.
+
+Konsep Aplikasi:
+Membuat aplikasi "Weather Forecast" (Prakiraan Cuaca).
+
+Fitur Utama:
+1. Tampilan Cuaca:
+- Menampilkan kondisi cuaca saat ini.
+- Menampilkan prakiraan cuaca untuk 3 hari ke depan.
+
+2. Integrasi API:
+- Menggunakan API cuaca publik (OpenWeatherMap https://openweathermap.org/api) untuk mengambil dan menampilkan data cuaca.
+
+3. Simple and effective UI/UX design:
+- Merancang antarmuka pengguna yang ramah pengguna dan menarik secara visual, yang memudahkan pengguna untuk melihat informasi cuaca.
+
+4. Persyaratan:
+a. Integrasi API: Mengintegrasikan API yang dipilih untuk mengambil dan menampilkan data cuaca saat ini serta prakiraan cuaca.
+b. Penanganan Error: Mengimplementasikan penanganan error dasar untuk mengelola masalah seperti kegagalan permintaan API atau kurangnya koneksi internet.
+c. Kualitas Kode: Penerapan SOLID Programming
+d. Desain UI/UX: Sederhana, intuitif, dan menarik secara visual.
+
+Dokumentasi:
+a. Menyertakan file README dengan instruksi tentang cara mengatur dan menjalankan aplikasi.
+b. Kirimkan kode sumber lengkap melalui link repository GitHub.
+c. Pastikan aplikasi mudah diatur dan dijalankan, dengan instruksi pengaturan yang jelas dalam file README.
+
+Kriteria Penilaian:
+1. Organisasi & Kejelasan Kode, struktur dan organisasi kode
+2. Error handling
+3. UI/UX yang sederhana dan efektif.
+
+Deliverables silakan fork repository ini dan submit link repository hasil pengerjaan Anda ke xxx
