@@ -33,4 +33,4 @@ Kriteria Penilaian:
 2. Error handling
 3. UI/UX yang sederhana dan efektif.
 
-Deliverables silakan fork repository ini dan submit link repository hasil pengerjaan Anda ke xxx
+Deliverables silakan fork repository ini dan submit link repository hasil pengerjaan Anda ke [xxx](https://bit.ly/study-case-mobile-developer-msib).
