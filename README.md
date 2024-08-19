@@ -15,19 +15,19 @@ Fitur Utama:
 - Menggunakan API cuaca publik (OpenWeatherMap https://openweathermap.org/api) untuk mengambil dan menampilkan data cuaca.
 
 Persyaratan:
-a. Integrasi API: Mengintegrasikan API yang dipilih untuk mengambil dan menampilkan data cuaca saat ini serta prakiraan cuaca.
-b. Penanganan Error: Mengimplementasikan penanganan error dasar untuk mengelola masalah seperti kegagalan permintaan API atau kurangnya koneksi internet.
-c. Kualitas Kode: Penerapan SOLID Programming
-d. Desain UI/UX: Sederhana, intuitif, dan menarik secara visual.
+- Integrasi API: Mengintegrasikan API yang dipilih untuk mengambil dan menampilkan data cuaca saat ini serta prakiraan cuaca.
+- Penanganan Error: Mengimplementasikan penanganan error dasar untuk mengelola masalah seperti kegagalan permintaan API atau kurangnya koneksi internet.
+- Kualitas Kode: Penerapan SOLID Programming
+- Desain UI/UX: Sederhana, intuitif, dan menarik secara visual.
 
 Dokumentasi:
-a. Menyertakan file README dengan instruksi tentang cara mengatur dan menjalankan aplikasi.
-b. Kirimkan kode sumber lengkap melalui link repository GitHub.
-c. Pastikan aplikasi mudah diatur dan dijalankan, dengan instruksi pengaturan yang jelas dalam file README.
+- Menyertakan file README dengan instruksi tentang cara mengatur dan menjalankan aplikasi.
+- Kirimkan kode sumber lengkap melalui link repository GitHub.
+- Pastikan aplikasi mudah diatur dan dijalankan, dengan instruksi pengaturan yang jelas dalam file README.
 
 Kriteria Penilaian:
 1. Organisasi & Kejelasan Kode, struktur dan organisasi kode
 2. Error handling
 3. UI/UX yang sederhana dan efektif.
 
-Deliverables silakan fork repository ini dan submit link repository hasil pengerjaan Anda ke [xxx](https://bit.ly/study-case-mobile-developer-msib).
+Deliverables silakan fork repository ini dan submit link repository hasil pengerjaan Anda ke [https://bit.ly/study-case-mobile-developer-msib](https://bit.ly/study-case-mobile-developer-msib).
