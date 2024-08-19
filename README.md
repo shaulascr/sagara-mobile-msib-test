@@ -14,10 +14,7 @@ Fitur Utama:
 2. Integrasi API:
 - Menggunakan API cuaca publik (OpenWeatherMap https://openweathermap.org/api) untuk mengambil dan menampilkan data cuaca.
 
-3. Simple and effective UI/UX design:
-- Merancang antarmuka pengguna yang ramah pengguna dan menarik secara visual, yang memudahkan pengguna untuk melihat informasi cuaca.
-
-4. Persyaratan:
+Persyaratan:
 a. Integrasi API: Mengintegrasikan API yang dipilih untuk mengambil dan menampilkan data cuaca saat ini serta prakiraan cuaca.
 b. Penanganan Error: Mengimplementasikan penanganan error dasar untuk mengelola masalah seperti kegagalan permintaan API atau kurangnya koneksi internet.
 c. Kualitas Kode: Penerapan SOLID Programming
